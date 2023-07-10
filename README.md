@@ -1,5 +1,4 @@
-## Hello 👋, I'm
-# **Evan Li**
+## Hello 👋, I'm **Evan Li**
 
 <!--
 **hevanli/hevanli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
